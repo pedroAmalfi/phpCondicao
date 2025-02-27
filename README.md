@@ -50,3 +50,9 @@ Este repositório inclui um pequeno sistema que recebe um número via formulári
 3. Veja o resultado exibido em `calcular.php`.
 
 Este exemplo prático reforça o aprendizado sobre estruturas condicionais em PHP!
+
+## Exercícios
+1. Faça um programa que receba dois números e informe se o primeiro é maior ou se é o segundo.
+2. Faça um programa que receba 4 notas de alunos, calcule a média e, se a média for maior que 5, informe que o aluno está aprovado; senão, informe que o aluno está reprovado.
+3. Faça um programa que receba o salário de um funcionário e a quantidade de filhos que ele possui. Se ele receber até R$800,00, acrescente o salário dele em 30%. Se a quantidade de filhos dele for maior que 1, acrescente no salário dele R$90,00 para cada filho que possuir a mais que 1.
+4. Faça um programa onde o usuário entre com peso e altura e calcule o IMC do usuário. Informe o resultado e a condição atual dele com base na tabela: IMC = Peso / Altura².
